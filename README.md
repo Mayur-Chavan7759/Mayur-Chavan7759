@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayur-Chavan7759
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Terraform, Ansible and CircleCI.
-- 💞️ I’m looking to collaborate on Terraform or any other Cloud Automation Tool
+- 💞️ I’m looking to collaborate on Ansible or any other Cloud Automation Tool
 - 📫 How to reach me -> www.linkedin.com/in/mayur-chavan-1410
 
 <!---
